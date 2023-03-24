@@ -1,3 +1,4 @@
+#   Copyright (c) Meta Platforms, Inc. and affiliates.
 from polymetis import RobotInterface, GripperInterface
 from dragonclaw_library import DragonClawSensor
 import time

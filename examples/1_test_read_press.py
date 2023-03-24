@@ -1,3 +1,5 @@
+#   Copyright (c) Meta Platforms, Inc. and affiliates.
+
 from collections import namedtuple
 import struct
 import time

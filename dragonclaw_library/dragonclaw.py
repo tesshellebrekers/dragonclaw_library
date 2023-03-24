@@ -1,3 +1,5 @@
+#   Copyright (c) Meta Platforms, Inc. and affiliates.
+
 import serial
 import numpy as np
 import struct

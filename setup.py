@@ -1,3 +1,5 @@
+#   Copyright (c) Meta Platforms, Inc. and affiliates.
+
 import os
 from setuptools import setup, find_packages
 

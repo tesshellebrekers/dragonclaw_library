@@ -1,3 +1,5 @@
+#   Copyright (c) Meta Platforms, Inc. and affiliates.
+
 from dragonclaw_library.dragonclaw_sensor import DragonClawSensor
 
 sensor = DragonClawSensor("/dev/ttyACM0")
